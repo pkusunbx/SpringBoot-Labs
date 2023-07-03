@@ -1,3 +1,5 @@
+server:
+  port: 7088
 spring:
   # datasource 数据源配置内容
   datasource:
